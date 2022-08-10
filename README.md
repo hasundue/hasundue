@@ -1,6 +1,6 @@
 ## Abstract
-- Part-time programmer (Julia, TypeScript, etc.)
-- Ph.D. in engineering (materials science)
+- Programmer (Vim, Julia, Deno, etc.)
+- Ph.D. in Engineering (materials science)
 
 ## References
 - [LinkedIn](https://www.linkedin.com/in/shun-ueda/)
