@@ -3,10 +3,10 @@
 
 `hasundue` is a programmer. Also known as `Shun Ueda` or `Chiezo`.
 
+Mainly working on a DevOps ecosystem for Deno.
+
 ## Features
-- Web development in TypeScript
-  - Deno
-  - Cloudflare Workers
+- Web development in TypeScript (Deno)
 - Vim-plugins develpment with [denops.vim](https://github.com/vim-denops/denops.vim)
 - Scientific calculation in Julia
 - Ph.D. in Engineering (materials science)
