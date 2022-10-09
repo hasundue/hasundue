@@ -1,9 +1,7 @@
 # :beer: hasundue
 ![stars](https://img.shields.io/github/stars/hasundue)
 
-`hasundue` is a programmer. Also known as `Shun Ueda` or `Chiezo`.
-
-Working on a DevOps ecosystem for Deno.
+`hasundue` is a programmer. Also known as `Shun Ueda` or `Chiezo`. Working on a DevOps ecosystem for Deno.
 
 ## :rocket: Features
 - Web development in TypeScript (Deno)
