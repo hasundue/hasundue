@@ -5,7 +5,7 @@
 
 ## :rocket: Features
 - Web development in TypeScript (Deno)
-- Vim-plugins develpment with [denops.vim](https://github.com/vim-denops/denops.vim)
+- Vim-plugin develpment with [denops.vim](https://github.com/vim-denops/denops.vim)
 - Scientific calculation in Julia
 - Ph.D. in Engineering (materials science)
 
