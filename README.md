@@ -1,7 +1,7 @@
 # ☕ hasundue
 ![stars](https://img.shields.io/github/stars/hasundue)
 
-`hasundue` is a programmer. Also known as `Chiezo`. Working for better DX with Deno, Julia, and Vim/Neovim. Ph.D. (Engineering).
+`hasundue` is a programmer. Also known as `Chiezo` or `Shun Ueda`. Working for better DX with Deno, Julia, and Vim/Neovim. Ph.D. (Engineering).
 
 ## :link: Links
 - [LinkedIn](https://www.linkedin.com/in/shun-ueda/)
