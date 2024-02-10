@@ -9,4 +9,4 @@
 
 ### 🌐 Social
 - Nostr: [chiezo@chiezo.dev](https://nostr.band/npub1cppnptddm9ggcxk3cmk7ptk4my32xetsyxfhugz44qxpk2r9enmszgyqlx)
-- Bluesky: [@chiezo.bsky.social](https://bsky.app/profile/chiezo.bsky.social)
+- Bluesky: [@chiezo.bsky.social](https://bsky.app/profile/chiezo.bsky.social) (in Japanese)
