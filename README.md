@@ -1,7 +1,7 @@
 ## ☕ hasundue
 ![stars](https://img.shields.io/github/stars/hasundue)
 
-`hasundue` is a programmer. Also known as `Chiezo` or `Shun Ueda`. Yak-shaving with Deno while envisioning better integration of Web and sciecne. Ph.D. (materials engineering).
+`hasundue` [hˈæz \`ʌndúː] is a programmer. Also known as `Chiezo` or `Shun Ueda`. Yak-shaving with Deno while envisioning better integration of Web and sciecne. Ph.D. (materials engineering).
 
 ### :link: Biography
 - [LinkedIn](https://www.linkedin.com/in/shun-ueda/)
